@@ -1,10 +1,10 @@
-# Spring2022 STAT8056 Homework
+# Spring2022 STAT8056 - Statistical Learning and Data Mining
 
 ## Question 1
 
 The description of problem is given in file *'hw-big2.pdf'*
 
-## Question 2
+## Question 2 - Recommender System on MovieLens 100K Data
 
 The description of the problem is given in file *'hw-big2.pdf'*
 
